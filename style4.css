@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    border:0px;
+    padding: 0px;
+    background-color: #FFF2FF;
+}
+
+#div1{
+    height: 50px;
+    text-align: right;
+    margin-top: 20px;
+}
+.menu{
+    padding: 6px;
+    margin-right: 25px;
+    font-size: 24px;
+    font-family: 'League Gothic', sans-serif;
+    color: #415224;
+}
+.menu:hover{
+    color:#A2B86F;
+}
+#inicio{
+    font-family: 'League Gothic', sans-serif;
+    color: #415224;
+    float: left;
+    font-size: 30px;
+    margin-left: 30px;
+}
+#inicio:hover{
+    color:#A2B86F;
+}
+#icon{
+    height: 24px;
+}
